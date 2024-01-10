@@ -1,0 +1,15 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--primary-color);
+  height: 100vh;
+  flex-direction: column;
+}
+
+.content-main > .title-main {
+  font-family: var(--font-main);
+  color: var(--color-font);
+  letter-spacing: 1pt;
+  text-shadow: 1px 2px #000;
+}

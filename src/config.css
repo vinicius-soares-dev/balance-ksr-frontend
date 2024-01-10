@@ -1,0 +1,26 @@
+:root {
+  --font-main: 'Poppins', sans-serif;
+  --font-secundary: 'Montserrat', sans-serif;
+  --primary-color: #8C1F28;
+  --secondary-color: #044040;
+  --tertiary-color: #D92525;
+  --color-font: #F2F2F2;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+
+a {
+  text-decoration: none;
+}

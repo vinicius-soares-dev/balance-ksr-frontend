@@ -1,0 +1,8 @@
+.section-background {
+  background: var(--secondary-color);
+  padding: 3em 7em;
+  border-top-right-radius: 16em;
+  border-bottom-left-radius: 8em;
+  border-top-left-radius: 21em;
+  border-bottom-right-radius: 20em;
+}
